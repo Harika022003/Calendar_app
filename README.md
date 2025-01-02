@@ -1,6 +1,15 @@
 Project Name:
 Calendar Application for Communication Tracking
 
+Deployment Link of project on Vercel:
+https://calendar-app-xi-eosin.vercel.app/user
+
+To install Dependencies:
+npm install
+
+To start the development server:
+npm start
+
 Description:
 This application helps organizations manage and track communications with external companies effectively. It features an admin panel for configuring communication methods and a user dashboard for managing and 
 visualizing tasks. Optional analytics provide actionable insights into performance.
